@@ -16,6 +16,9 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "@amcharts/amcharts4": "^4.7.21",
+    "@amcharts/amcharts4-geodata": "^4.1.9",
+    "@mdi/font": "^4.7.95",
     "sirv-cli": "^0.4.4"
   }
 }
